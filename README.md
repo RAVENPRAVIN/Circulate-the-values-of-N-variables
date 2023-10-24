@@ -38,7 +38,3 @@ def circulate():
 
 ## Result:
 Thus the python program of circulate n of variables executed successfully
-<<<<<<< HEAD
-
-=======
->>>>>>> 7b92f94109f8640fe603999730a93a14b077fc0c
