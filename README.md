@@ -8,15 +8,16 @@ Anaconda - Python 3.7
 
 ### Step 1:
 Get the two values from user 
-
 ### Step 2: 
+Assign the value of second variable to a temporary variable
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
-Using the slicing concept rotate the list
-
+Assign the value in temporary variable to the first variable
 ### Step 5: 
+Print both the values it would be interchanged
 ### Step 6: 
+End the program
 ## Program:
 ```python
 #Program to circulate N values.
@@ -32,9 +33,12 @@ def circulate():
 
 
 ## Output:
-![output](./Circulate%20n%20variables.png)
+![output](https://github.com/RAVENPRAVIN/Circulate-the-values-of-N-variables/assets/146820534/80a7a66c-9fd3-405a-ad7d-fc5f0b9580a1)
 
 
 ## Result:
 Thus the python program of circulate n of variables executed successfully
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7b92f94109f8640fe603999730a93a14b077fc0c
